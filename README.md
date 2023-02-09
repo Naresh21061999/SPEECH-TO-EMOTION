@@ -33,7 +33,7 @@ This will create two additional folders Actor-25 and Actor-26 in 'dataset_files/
 
 ### DATA CLEANING - 
 Now open the script 'Dataset_Cleaning.ipynb' and run it.
-This process will take some time but it will clean each file from dataset and will save in '/Final_Cleaned_Dataset/' folder.
+This process will take some time as it will clean each audio file from merged dataset by removing noise from it and  will save in '/Final_Cleaned_Dataset/' folder.
 
 ### Data AUGMENTATION - 
 Data Augmentation is a way to represent available data in deferent ways so that we can have more data to work on.
